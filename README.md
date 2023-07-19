@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe](tic_tac_toe.png)
+<img src="tic_tac_toe.png" width="200" height="200">
 ## Introduction
 
 Welcome to the Tic Tac Toe Game! This is a simple implementation of the classic Tic Tac Toe (also known as Noughts and Crosses) game in Python.
